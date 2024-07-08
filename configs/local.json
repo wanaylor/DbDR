@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 1433,
+    "db": "test",
+    "num_rows": 50,
+    "ms_delay": 0
+}
